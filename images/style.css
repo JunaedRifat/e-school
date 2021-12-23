@@ -105,3 +105,165 @@ order: 0;
 flex-grow: 0;
 margin: 0px 10px;
 }
+.rectangle1{
+    position: absolute;
+    width: 270px;
+    height: 270px;
+    left: 135px;
+    top: 618px;
+    
+    background: #F8FFFB;
+    border-radius: 10px;
+}
+.rectangle2{
+    position: absolute;
+width: 270px;
+height: 270px;
+left: 435px;
+top: 618px;
+
+background: #FFFFFF;
+box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+border-radius: 10px;
+}
+.rectangle3{
+    position: absolute;
+    width: 270px;
+    height: 270px;
+    left: 734px;
+    top: 618px;
+    
+    background: #F8FFFB;
+    border-radius: 10px;
+
+}
+.rectangle4{
+    position: absolute;
+width: 270px;
+height: 270px;
+left: 1035px;
+top: 618px;
+
+background: #F8FFFB;
+border-radius: 10px;
+}
+.colhead1{
+    position: absolute;
+width: 138px;
+height: 36px;
+left: 201px;
+top: 779px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+
+color: #413960;
+}
+.online{
+    position: absolute;
+width: 280px;
+height: 54px;
+left: 551px;
+top: 1050px;
+
+font-family: Poppins, sans-serif ;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+
+
+color: #413960;
+}
+.col1{
+    position: absolute;
+width: 370px;
+height: 483px;
+left: 135px;
+top: 1102px;
+
+background: #FFFFFF;
+box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+border-radius: 18px;
+}
+.col2{
+    position: absolute;
+width: 370px;
+height: 483px;
+left: 535px;
+top: 1102px;
+
+background: #FFFFFF;
+box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+border-radius: 18px;
+}
+.col3{
+    position: absolute;
+width: 370px;
+height: 483px;
+left: 934px;
+top: 1102px;
+
+background: #FFFFFF;
+box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+border-radius: 18px;
+}
+.test{
+    position: absolute;
+width: 219px;
+height: 54px;
+left: 635px;
+top: 1666px;
+
+font-family: Poppins, sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.man{
+    position: absolute;
+width: 120px;
+height: 120px;
+left: 353px;
+top: 1787px;
+
+/*background: #C4C4C4;*/
+}
+.para{
+    position: absolute;
+width: 580px;
+height: 90px;
+left: 525px;
+top: 1796px;
+
+font-family: Poppins, sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+
+
+
+color: #000000;
+}
+
+.foot4{
+            <h6>Useful Link </h6>  
+            <h6>Graphic Design</h6>
+            <h6>Web Design</h6>
+            <h6>Business Marketing </h6>
+            <h6>Engineering</h6>
+
+}
