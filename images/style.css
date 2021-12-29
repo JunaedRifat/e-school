@@ -256,7 +256,7 @@ line-height: 30px;
 
 
 
-color: #000000;
+color: #0e0d0d;
 }
 
 
@@ -270,11 +270,14 @@ color: #000000;
     background: #282531;;
 }
 
-.color{
+.colorr{
   
-    
-    color: #FFFFFF;
+    color:#21B573;;
  
+}
+
+.color{
+    color: #FFFFFF;
 }
 .footer{
     position: absolute;
