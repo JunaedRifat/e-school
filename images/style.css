@@ -259,11 +259,39 @@ line-height: 30px;
 color: #000000;
 }
 
-.foot4{
-            <h6>Useful Link </h6>  
-            <h6>Graphic Design</h6>
-            <h6>Web Design</h6>
-            <h6>Business Marketing </h6>
-            <h6>Engineering</h6>
 
+.foot{
+    position: absolute;
+    width: 1550px;
+    height: 360px;
+    left: 0px;
+    top: 2013px;
+    
+    background: #282531;;
+}
+
+.color{
+  
+    
+    color: #FFFFFF;
+ 
+}
+.footer{
+    position: absolute;
+    width: 337px;
+    height: 30px;
+    left: 550px;
+    top: 290px;
+    
+    font-family: Poppins, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    /* identical to box height, or 187% */
+    
+    
+    color: #CDCDCD;
+    
+    
 }
